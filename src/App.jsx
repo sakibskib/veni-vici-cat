@@ -59,7 +59,7 @@ function App() {
   };
 
   const submitForm = () => {
-    // For this example, we'll just fetch a random cat
+    
     fetchRandomCat();
     reset();
   };
